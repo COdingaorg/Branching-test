@@ -1,5 +1,15 @@
-h1{
+h1 {
   color: blue;
+  text-align: center;
 }
-p{
-  background-color: rgba(130, 124, 150, 0.692);}
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: teal;
+}
+p {
+  color: gray;
+}
+body {
+  background-color: skyblue;
+}
